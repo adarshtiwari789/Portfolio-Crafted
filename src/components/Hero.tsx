@@ -116,7 +116,7 @@ const Hero = () => {
           Hi, I'm{" "}
           <span className="relative inline-block">
             <span className="relative z-10 bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-              Shreyansh Tripathi
+              Adarsh Tiwari
             </span>
             <motion.span
               className="absolute -inset-1 -z-10 block rounded-lg bg-primary/10"
